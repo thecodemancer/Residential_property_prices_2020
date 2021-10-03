@@ -1,9 +1,9 @@
 # Residential_property_prices_2020
 
-![Residential_property_prices_2020](https://storage.googleapis.com/kaggle-datasets-images/1414868/2343772/6efe47cae7a72f8ae94ad37027f9cd5e/dataset-cover.jpg?raw=true)
+![Residential_property_prices_2020](https://github.com/thecodemancer/Residential_property_prices_2020/blob/main/images/dataset-cover.jpg?raw=true?raw=true)
 
 <p align="center">
-  <img src="https://storage.googleapis.com/kaggle-datasets-images/1414868/2343772/6efe47cae7a72f8ae94ad37027f9cd5e/dataset-cover.jpg??raw=true" width="350" alt="accessibility text">
+  <img src="https://github.com/thecodemancer/Residential_property_prices_2020/blob/main/images/dataset-cover.jpg?raw=true" width="350" alt="accessibility text">
 </p>
 
 ## Context
