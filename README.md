@@ -1,5 +1,7 @@
 # Residential_property_prices_2020
 
+![Residential_property_prices_2020](https://storage.googleapis.com/kaggle-datasets-images/1414868/2343772/6efe47cae7a72f8ae94ad37027f9cd5e/dataset-cover.jpg?t=2021-06-20-08-21-59)
+
 ## Context
 Property prices registered within the Republic of Ireland during 2020.
 
@@ -31,10 +33,10 @@ Image is taken from unsplash.com and shared by Jason Murphy https://unsplash.com
 ## Inspiration
 Potential ideas to review
 
-. How the property price changes during 2020
-. Does the location of a property influence the price
-Best techniques that could be used to improve the accuracy of the data
-Methods to reduce the number of missing values
-Extracting additional information from the address variable to store in new columns
-Data visualizations to highlight the changing trends relative to time and location
-Can multiple property purchases be identified e.g. registration of multiple apartments
+- How the property price changes during 2020
+- Does the location of a property influence the price
+- Best techniques that could be used to improve the accuracy of the data
+- Methods to reduce the number of missing values
+- Extracting additional information from the address variable to store in new columns
+- Data visualizations to highlight the changing trends relative to time and location
+- Can multiple property purchases be identified e.g. registration of multiple apartments
