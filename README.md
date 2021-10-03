@@ -1,9 +1,7 @@
 # Residential_property_prices_2020
 
-![Residential_property_prices_2020](https://github.com/thecodemancer/Residential_property_prices_2020/blob/main/images/dataset-cover.jpg?raw=true?raw=true)
-
 <p align="center">
-  <img src="https://github.com/thecodemancer/Residential_property_prices_2020/blob/main/images/dataset-cover.jpg?raw=true" width="350" alt="accessibility text">
+  <img src="https://github.com/thecodemancer/Residential_property_prices_2020/blob/main/images/dataset-cover.jpg?raw=true" style="width:100%">
 </p>
 
 ## Context
