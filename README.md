@@ -1,5 +1,7 @@
 # Residential_property_prices_2020
 
+In this code, we're applying data cleansing to this dataset so that we can properly work with it later. The goal is to build a data model with a fact table and dimension tables.
+
 <p align="center">
   <img src="https://github.com/thecodemancer/Residential_property_prices_2020/blob/main/images/dataset-cover.jpg?raw=true" style="width:100%">
 </p>
